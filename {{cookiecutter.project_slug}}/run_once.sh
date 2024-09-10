@@ -1,4 +1,4 @@
-github_url="https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.project_slug}}"
+github_url="https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.repo_name}}"
 git init
 git remote add origin github_url
 

@@ -1,5 +1,8 @@
 {
-  "repo_name": "Service",
-  "file": "First",
+  "full_name": "Sugam Sharma",
+  "email": "sugams342@gmail.com",
+  "github_username": "sugam21",
+  "project_name": "Python Template",
+  "project_slug": "{{cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_')}}",
   "username": "sugam"
 }

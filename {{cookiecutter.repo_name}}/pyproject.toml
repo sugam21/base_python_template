@@ -1,10 +1,10 @@
 [tool.poetry]
 name = "{{cookiecutter.repo_name}}"
-version = "0.1.0"
-description = ""
+version = "{{cookiecutter.version}}"
+description = "{{cookiecutter.description}"
 authors = ["{{cookiecutter.full_name}} <{{cookiecutter.email}}>"]
 readme = "README.md"
-package-mode = false
+package-mode = "{{cookiecutter.package_mode}}"
 
 [tool.poetry.dependencies]
 python = "^3.12"

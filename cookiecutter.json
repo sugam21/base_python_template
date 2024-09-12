@@ -4,5 +4,7 @@
   "github_username": "sugam21",
   "project_name": "Python Template",
   "repo_name": "{{cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_')}}",
-  "username": "sugam"
+  "version": "0.1.0",
+  "descripton": "",
+  "package_mode": "false"
 }
